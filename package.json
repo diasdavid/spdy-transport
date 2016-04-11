@@ -15,6 +15,7 @@
   "homepage": "https://github.com/indutny/spdy-transport",
   "author": "Fedor Indutny <fedor@indutny.com>",
   "dependencies": {
+    "browserify-zlib": "github:ipfs/browserify-zlib",
     "debug": "^2.2.0",
     "hpack.js": "^2.1.4",
     "obuf": "^1.1.0",
